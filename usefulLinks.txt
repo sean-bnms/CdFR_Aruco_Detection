@@ -1,0 +1,10 @@
+Links that helped me code the detection algorithm of the Aruco marker on the compass of the 2021 French Robotic Cup edition
+
+Example of Raspberry Pi camera implementation :  https://dzone.com/articles/marker-tracking-via-websockets-with-raspberry-pi
+OpenCV tutorial for aruco : https://docs.opencv.org/master/d5/dae/tutorial_aruco_detection.html
+OpenCV tutorial in python :  https://mecaruco2.readthedocs.io/en/latest/notebooks_rst/Aruco/aruco_basics_video.html  
+OpenCV official documentation in C++/Python : https://docs.opencv.org/master/d9/d6a/group__aruco.html#ga2ad34b0f277edebb6a132d3069ed2909 
+Aruco marker generator : https://chev.me/arucogen/ 
+Picamera documentation : https://picamera.readthedocs.io/en/release-1.10/recipes1.html#capturing-to-an-opencv-object
+Picamera tutorial : https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/3
+
