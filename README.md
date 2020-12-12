@@ -1,5 +1,5 @@
 # CdFR_Aruco_Detection
-Python script to detect the orientation of the Aruco marker located in the compass of the playground  during a game of the 2021 French Robotic Cup edition Sail The World
+Python script to detect the orientation of the Aruco marker located in the compass of the playground during a game of the 2021 French Robotic Cup edition on the theme Sail The World
 
 ## How to use the files ?
 
@@ -9,7 +9,7 @@ In this folder, there is a code to generate the Boussole Aruco Tag (4x4, id 17) 
 
 ### Images folder
 
-In this folder, 10 images of a rough reprodution of the compass of the playground, taken with a PiCamera v2.
+In this folder, 10 images of a rough reprodution of the compass of the playground, taken with a PiCamera v2. You can find the Python scripts to calibrate the camera using a Charuco Board on this repository : https://github.com/sean-bnms/PiCamera_Calibration.git
 
 ### .txt files
 
